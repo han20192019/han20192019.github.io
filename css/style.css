@@ -159,7 +159,7 @@ a:hover {
 }
 
 .home-wrapper .description .larger_font {
-  font-size: var(--larger-font_size);
+  font-size: var(--name-font-size);
 }
 
 .home-wrapper .social {
