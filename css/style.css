@@ -13,7 +13,6 @@
   --mobile-line-height: 26px;
 
 
-  --larger-font_size: 30px;
   --section-title-font-size: 25px;
   --mobile-section-title-font-size: 22px;
 
@@ -159,7 +158,7 @@ a:hover {
 }
 
 .home-wrapper .description .larger_font {
-  font-size: var(--name-font-size);
+  font-size: var(--mobile-section-title-font-size);
 }
 
 .home-wrapper .social {
