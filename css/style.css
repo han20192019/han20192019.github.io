@@ -12,10 +12,12 @@
   --line-height: 24px;
   --mobile-line-height: 26px;
 
-  --section-title-font-size: 20px;
+
+  --larger-font_size: 20px;
+  --section-title-font-size: 25px;
   --mobile-section-title-font-size: 22px;
 
-  --name-font-size: 50px;
+  --name-font-size: 40px;
 
   --code-font-size: 12px;
   --code-line-height: 18px;
@@ -99,6 +101,7 @@ a:hover {
 }
 
 .col-wrapper {
+  font-size: var(--larger-font_size);
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -156,12 +159,6 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.home-wrapper .description .phd {
-  font-size: 25;
-}
-.home-wrapper .description .email {
-  font-size: 25;
-}
 
 .home-wrapper .social {
   margin-top: 10px;
