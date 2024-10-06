@@ -258,12 +258,13 @@ a:hover {
 }
 
 .pub-wrapper .authors me {
+  text-decoration: underline;
   color: var(--dark-gray);
   font-weight: bold;
 }
 
 .pub-wrapper .figure img {
-  max-width: 280px;
+  max-width: 300px;
   width: 100%;
 }
 
